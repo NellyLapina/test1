@@ -7,4 +7,5 @@
  */
 public class test1 {
     private int test = 0;
+    private int test1 = 0;
 }
